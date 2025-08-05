@@ -1,4 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ANAMIKA ANAND'
 theme = "mainroad"
+[menu]
+[[menu.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 30
+[[menu.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
