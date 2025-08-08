@@ -15,3 +15,7 @@ theme = "mainroad"
   name = 'Posts'
   pageRef = '/posts'
   weight = 20
+[[menu.main]]
+  name = 'CV'
+  pageRef = '/CV'
+  weight = 20
