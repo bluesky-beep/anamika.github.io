@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 05 Aug 2025 23:09:14 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>CV</title>
       <link>http://localhost:1313/cv/cv/</link>
       <pubDate>Tue, 05 Aug 2025 23:09:14 +0900</pubDate>
       <guid>http://localhost:1313/cv/cv/</guid>
-      <description></description>
+      <description>find me cv here! </description>
     </item>
   </channel>
 </rss>
