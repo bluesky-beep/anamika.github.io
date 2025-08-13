@@ -13,7 +13,7 @@ Afters months of procrastination, I finally decided to make this page. The site 
 I plan to gradually upload some important notes and personal projects here.
 Right now, I’m based in Japan and in the final year of my PhD at the Climate Change System Research Institute, University of Tokyo. As I navigate this transition phase and explore what comes next, this space will serve as a place to document and share my journey, thoughts, and work.
 
-Get in touch!
+Stay tuned!
 
 
 ----
