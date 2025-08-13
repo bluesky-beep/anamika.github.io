@@ -8,10 +8,6 @@ theme = "mainroad"
   pageRef = '/'
   weight = 10
 [[menu.main]]
-  name = 'CV'
-  pageRef = '/CV'
-  weight = 20
-[[menu.main]]
   name = 'About'
   pageRef = '/about'
   weight = 30

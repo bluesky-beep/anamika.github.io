@@ -14,10 +14,10 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-08-05T23:09:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2025-08-05T23:09:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>http://localhost:1313/cv/cv/</loc>
     <lastmod>2025-08-05T23:09:14+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
