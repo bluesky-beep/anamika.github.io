@@ -9,7 +9,7 @@ theme = "mainroad"
   avatar = "images/sipp.png"
 
 [Params.style.vars]
-highlightColor = "#e67e22"  # ← change this to any color you like
+highlightColor = "#e22d30"  # ← change this to any color you like
 
 [menu]
 [[menu.main]]
