@@ -1,18 +1,27 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'ANAMIKA ANAND'
 theme = "mainroad"
+
+[About] # Used in authorbox
+  name = "Anamika Anand"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "images/sipp.png"
+
+[Params.style.vars]
+highlightColor = "#e67e22"  # ← change this to any color you like
+
 [menu]
 [[menu.main]]
-  name = 'Home'
+  name = 'home'
   pageRef = '/'
   weight = 10
 [[menu.main]]
   name = 'About'
   pageRef = '/about'
-  weight = 30
+  weight = 20
 [[menu.main]]
   name = 'Posts'
   pageRef = '/posts'
-  weight = 20
+  weight = 30
  
