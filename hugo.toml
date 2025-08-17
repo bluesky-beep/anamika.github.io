@@ -14,7 +14,7 @@ highlightColor = "#e22d30"  # ← change this to any color you like
 [menu]
 [[menu.main]]
   name = 'home'
-  pageRef = '/'
+  pageRef = '/about'
   weight = 20
 [[menu.main]]
   name = 'About'
