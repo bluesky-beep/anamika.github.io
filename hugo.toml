@@ -24,4 +24,5 @@ highlightColor = "#e22d30"  # ← change this to any color you like
   name = 'Posts'
   pageRef = '/posts'
   weight = 30
+  
  
