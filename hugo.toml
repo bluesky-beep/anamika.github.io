@@ -15,7 +15,7 @@ highlightColor = "#e22d30"  # ← change this to any color you like
 [[menu.main]]
   name = 'home'
   pageRef = '/'
-  weight = 10
+  weight = 20
 [[menu.main]]
   name = 'About'
   pageRef = '/about'
@@ -23,6 +23,12 @@ highlightColor = "#e22d30"  # ← change this to any color you like
 [[menu.main]]
   name = 'Posts'
   pageRef = '/posts'
-  weight = 30
-  
- 
+  weight = 20
+[[menu.main]]
+  name = 'travel'
+  pageRef = '/notes'
+  weight = 20
+[[menu.main]]
+  name = 'links'
+  pageRef = '/links'
+  weight = 20
